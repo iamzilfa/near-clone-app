@@ -4,7 +4,7 @@ import Navbar from "./navbar";
 
 const Layout = ({ children }) => {
   return (
-    <div>
+    <div className="text-Zolpan font-Graphic">
       <Head>
         <title>Near</title>
       </Head>

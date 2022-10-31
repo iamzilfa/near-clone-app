@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Graphic-regular";
+    src: url("/Graphik-Medium-Web.woff2");
+    src: url("/Graphik-Regular-Web.woff2");
+    src: url("/Graphik-Semibold-Web.woff2");
+    src: url("/CircularXXWeb-Book.woff2");
+}
